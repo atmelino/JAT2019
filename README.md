@@ -17,6 +17,7 @@ apt-get purge openjdk*
 
 http://forum.lwjgl.org/index.php?topic=6399.0
 
+https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/
 
 
 
